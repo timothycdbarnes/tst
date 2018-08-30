@@ -1,3 +1,9 @@
 File 1
 
+<<<<<<< HEAD
 This is a change made on the master branch. It should disappear.
+=======
+This is the change on the branch.
+
+This file will also change on master branch.
+>>>>>>> origin/branch
